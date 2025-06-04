@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="IFT2015-E25-tp1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IFT2015-E25-tp1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20240303.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
